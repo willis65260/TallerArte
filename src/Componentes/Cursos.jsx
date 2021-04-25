@@ -34,7 +34,7 @@ export default function Cursos() {
                                         <p>
                                             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere obcaecati dolore laudantium dicta! Quas, labore molestiae facilis cupiditate quo similique ex cumque sapiente consequatur modi aut eligendi repellat placeat aliquam.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere obcaecati dolore laudantium dicta! Quas, labore molestiae facilis cupiditate quo similique ex cumque sapiente consequatur modi aut eligendi repellat placeat aliquam.
                                         </p>
-                                        <Button variant="info" >Ver Mas</Button>
+                                        {/* <Button variant="info" >Ver Mas</Button> */}
                                     </Col>
                                     <Col xs={5}>
                                         <Image src={img1} className="altura300" rounded />
@@ -61,7 +61,7 @@ export default function Cursos() {
                                             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere obcaecati dolore laudantium dicta! Quas, labore molestiae facilis cupiditate quo similique ex cumque sapiente consequatur modi aut eligendi repellat placeat aliquam.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere obcaecati dolore laudantium dicta! Quas, labore molestiae facilis cupiditate quo similique ex cumque sapiente consequatur modi aut eligendi repellat placeat aliquam.
                                         </p>
                                         <div>
-                                            <Button variant="info" style={{ float: "right" }} >Ver Mas</Button>
+                                            {/* <Button variant="info" style={{ float: "right" }} >Ver Mas</Button> */}
                                         </div>
                                     </Col>
                                 </Row>

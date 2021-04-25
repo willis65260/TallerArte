@@ -2,10 +2,27 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Actividades from './Componentes/Actividades';
+import Footer from './Componentes/Footer';
+
+
 
 ReactDOM.render(
+
   <React.StrictMode>
-    <App />
+
+    <Router>
+    <App/>
+
+      <Switch>
+        <Route exact path="/" component={App} />
+        <Route path="/Actividades" component={Actividades} />
+        <Route path="/Footer" component={Footer} />
+        
+      </Switch>
+    </Router>
+
   </React.StrictMode>,
   document.getElementById('root')
 );

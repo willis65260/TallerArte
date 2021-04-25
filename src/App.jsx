@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import { BrowserRouter, Link, Route, Switch } from "react-router-dom";
 
 import Header from './Componentes/Header';
 // import './Recursos/Bootstrap/css/bootstrapD.css'
@@ -13,13 +16,24 @@ import Instalaciones from './Componentes/Instalaciones';
 import Contacto from './Componentes/Contacto';
 import Footer from './Componentes/Footer';
 
+
+const handleScroll = e => {
+  e.preventDefault();
+  const main = this.main.current;
+  window.scrollTo({
+    top: main.offsetTop,
+    left: 0,
+    behavior: "instant"
+  });
+};
+
 function App() {
   return (
     <div className="App">
       <div className="imagen-fondo" />
       <div className="fondo-blaquesino" />
       <div className="">
-        <Header />
+        <Header Footer={<Footer/>} />
         <Infoinicio />
       </div>
 
@@ -30,6 +44,7 @@ function App() {
         <InscrCalendario />
         <Instalaciones />
         <Contacto />
+        <div id="#Footer" />
         <Footer />
       </div>
 

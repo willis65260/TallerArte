@@ -62,7 +62,7 @@ export default function Instalaciones() {
                         </Col>
                     </Row>
                 </Container>
-                <Button style={{ float: "right" }}><span style={{ margin: "auto 1rem" }}>Ver mas</span></Button>
+                {/* <Button style={{ float: "right" }}><span style={{ margin: "auto 1rem" }}>Ver mas</span></Button> */}
             </Jumbotron>
         </>
     )

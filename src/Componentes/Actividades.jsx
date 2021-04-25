@@ -75,7 +75,7 @@ export default function Actividades() {
                                 </Row>
                                 <br />
                             </Container >
-                            <Button variant="info" style={{ float: "right", margin: "1rem", paddingLeft: "1rem", paddingRight: "1rem" }} >Ver Mas</Button>
+                            {/* <Button variant="info" style={{ float: "right", margin: "1rem", paddingLeft: "1rem", paddingRight: "1rem" }} >Ver Mas</Button> */}
                         </Jumbo>
                     </Col>
                 </Row>
