@@ -1,0 +1,98 @@
+/** Colores
+**  Amarillo: #FBDD16   251, 221, 22
+**  Rojo: #C32324   195, 35, 36
+**  Azul: #1A2A4E   26, 42, 78
+**  Verde: #5AA75D
+**  Rosa: #BA5168
+**  Naranja: #e57c40
+*/
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&family=Roboto+Mono&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Orelega+One&family=Roboto&display=swap');
+
+* {
+    /* transition: all .1s linear; */
+}
+
+:root {
+    --Amarillo: #FBDD16;
+    --Rojo: #C32324;
+    --Azul: #1A2A4E;
+    --Verde: #5AA75D;
+    --Rosa: #BA5168;
+    --Naranja: #e57c40;
+    --Cafe: #521e00;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Indie Flower', cursive;
+    color: rgb(42, 63, 106);
+}
+
+p {
+    /* font-size: 25px; */
+    color: rgb(42, 63, 106);
+    /* color: var(--Cafe); */
+    /* font-family: 'Roboto mono', sans-serif; */
+    /* font-family: 'Orelega One', cursive; */
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.imagen-fondo,
+.fondo-blaquesino {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("./Imagenes/fondo1_auto_x2.jpg");
+    background-image: url("./Imagenes/fondo2_auto_x2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    z-index: -100;
+}
+
+.fondo-blaquesino {
+    background-image: none;
+    background-color: var(--Amarillo);
+    opacity: .30;
+    z-index: -99;
+}
+
+.fondo-resaltar {
+    background-color: rgba(26, 42, 78, .20);
+    border-radius: 5%;
+    /* */
+}
+
+.fondo-transparente {
+    background-color: transparent;
+}
+
+.Pagina-inicio {
+    height: 100vh;
+    width: 100vw;
+    /* background-color: #C32324; */
+    /* overflow: hidden; */
+}
+
+.pagina-entera {
+    /* height: 100vh; */
+    width: 100vw;
+    /* overflow-y: scroll; */
+    /*  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    /*scrollbar-width: none;  /* Firefox */
+}
+
+.pagina-entera::-webkit-scrollbar {
+    /* display: none;  /* Safari and Chrome */
+}
+
+.altura300{
+    height: 300px;
+}
