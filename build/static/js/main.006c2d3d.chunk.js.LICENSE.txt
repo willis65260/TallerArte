@@ -1,0 +1,3 @@
+//! Cambiar el tamaño de la letra con el tamaño de la pantalla
+
+//! put a tabbed interface aqui para dsplegar Actividades, Material y Costo <-- seria buena idea
