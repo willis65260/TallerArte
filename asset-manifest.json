@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TallerArte/static/css/main.dbf04961.chunk.css",
-    "main.js": "/TallerArte/static/js/main.4921a61c.chunk.js",
-    "main.js.map": "/TallerArte/static/js/main.4921a61c.chunk.js.map",
+    "main.css": "/TallerArte/static/css/main.6a27f4dd.chunk.css",
+    "main.js": "/TallerArte/static/js/main.5e3e78d1.chunk.js",
+    "main.js.map": "/TallerArte/static/js/main.5e3e78d1.chunk.js.map",
     "runtime-main.js": "/TallerArte/static/js/runtime-main.4a421aad.js",
     "runtime-main.js.map": "/TallerArte/static/js/runtime-main.4a421aad.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/TallerArte/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d8f7f7dc.chunk.js": "/TallerArte/static/js/2.d8f7f7dc.chunk.js",
-    "static/js/2.d8f7f7dc.chunk.js.map": "/TallerArte/static/js/2.d8f7f7dc.chunk.js.map",
+    "static/js/2.d9f3fc70.chunk.js": "/TallerArte/static/js/2.d9f3fc70.chunk.js",
+    "static/js/2.d9f3fc70.chunk.js.map": "/TallerArte/static/js/2.d9f3fc70.chunk.js.map",
     "index.html": "/TallerArte/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/TallerArte/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.dbf04961.chunk.css.map": "/TallerArte/static/css/main.dbf04961.chunk.css.map",
-    "static/js/2.d8f7f7dc.chunk.js.LICENSE.txt": "/TallerArte/static/js/2.d8f7f7dc.chunk.js.LICENSE.txt",
-    "static/js/main.4921a61c.chunk.js.LICENSE.txt": "/TallerArte/static/js/main.4921a61c.chunk.js.LICENSE.txt",
+    "static/css/main.6a27f4dd.chunk.css.map": "/TallerArte/static/css/main.6a27f4dd.chunk.css.map",
+    "static/js/2.d9f3fc70.chunk.js.LICENSE.txt": "/TallerArte/static/js/2.d9f3fc70.chunk.js.LICENSE.txt",
+    "static/js/main.5e3e78d1.chunk.js.LICENSE.txt": "/TallerArte/static/js/main.5e3e78d1.chunk.js.LICENSE.txt",
     "static/media/adulto-pintando.32c71835.jpg": "/TallerArte/static/media/adulto-pintando.32c71835.jpg",
     "static/media/bellas-artes-1.1532a3ec.jpg": "/TallerArte/static/media/bellas-artes-1.1532a3ec.jpg",
     "static/media/bellas-artes-2.74128554.jpg": "/TallerArte/static/media/bellas-artes-2.74128554.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.4a421aad.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d8f7f7dc.chunk.js",
-    "static/css/main.dbf04961.chunk.css",
-    "static/js/main.4921a61c.chunk.js"
+    "static/js/2.d9f3fc70.chunk.js",
+    "static/css/main.6a27f4dd.chunk.css",
+    "static/js/main.5e3e78d1.chunk.js"
   ]
 }
