@@ -12,17 +12,9 @@ ReactDOM.render(
 
   <React.StrictMode>
 
-    <Router>
     <App/>
 
-      <Switch>
-        <Route exact path="/" component={App} />
-        <Route path="/Actividades" component={Actividades} />
-        <Route path="/Footer" component={Footer} />
-        
-      </Switch>
-    </Router>
-
+    
   </React.StrictMode>,
   document.getElementById('root')
 );

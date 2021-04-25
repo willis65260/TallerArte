@@ -33,18 +33,21 @@ function App() {
       <div className="imagen-fondo" />
       <div className="fondo-blaquesino" />
       <div className="">
-        <Header Footer={<Footer/>} />
+        <Header />
         <Infoinicio />
       </div>
 
-
       <div className="">
+      <div id="link1" />
         <Actividades />
+        <div id="link2" />
         <Cursos />
+        <div id="link6" />
         <InscrCalendario />
+        <div id="link4" />
         <Instalaciones />
+        <div id="link5" />
         <Contacto />
-        <div id="#Footer" />
         <Footer />
       </div>
 

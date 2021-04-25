@@ -27,6 +27,7 @@ export default function Calendario() {
     return (
         <>
             <>
+                <div id="link3" />
                 <Container>
                     <Row>
                         <Col>
@@ -42,7 +43,7 @@ export default function Calendario() {
                         </Col>
                     </Row>
                 </Container>
-                <br/>
+                <br />
                 <InformacionCalendario />
             </>
         </>
