@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/TallerArte/static/css/main.dbf04961.chunk.css",
+    "main.js": "/TallerArte/static/js/main.4921a61c.chunk.js",
+    "main.js.map": "/TallerArte/static/js/main.4921a61c.chunk.js.map",
+    "runtime-main.js": "/TallerArte/static/js/runtime-main.4a421aad.js",
+    "runtime-main.js.map": "/TallerArte/static/js/runtime-main.4a421aad.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/TallerArte/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d8f7f7dc.chunk.js": "/TallerArte/static/js/2.d8f7f7dc.chunk.js",
+    "static/js/2.d8f7f7dc.chunk.js.map": "/TallerArte/static/js/2.d8f7f7dc.chunk.js.map",
+    "index.html": "/TallerArte/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/TallerArte/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.dbf04961.chunk.css.map": "/TallerArte/static/css/main.dbf04961.chunk.css.map",
+    "static/js/2.d8f7f7dc.chunk.js.LICENSE.txt": "/TallerArte/static/js/2.d8f7f7dc.chunk.js.LICENSE.txt",
+    "static/js/main.4921a61c.chunk.js.LICENSE.txt": "/TallerArte/static/js/main.4921a61c.chunk.js.LICENSE.txt",
+    "static/media/adulto-pintando.32c71835.jpg": "/TallerArte/static/media/adulto-pintando.32c71835.jpg",
+    "static/media/bellas-artes-1.1532a3ec.jpg": "/TallerArte/static/media/bellas-artes-1.1532a3ec.jpg",
+    "static/media/bellas-artes-2.74128554.jpg": "/TallerArte/static/media/bellas-artes-2.74128554.jpg",
+    "static/media/bellas-artes-3.83cad3ee.jpg": "/TallerArte/static/media/bellas-artes-3.83cad3ee.jpg",
+    "static/media/estilos.css": "/TallerArte/static/media/fondo2_auto_x2.f61421de.jpg",
+    "static/media/nios-pintando.acbda747.jpg": "/TallerArte/static/media/nios-pintando.acbda747.jpg",
+    "static/media/profesor-arte.0c3a02fb.jpg": "/TallerArte/static/media/profesor-arte.0c3a02fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a421aad.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d8f7f7dc.chunk.js",
+    "static/css/main.dbf04961.chunk.css",
+    "static/js/main.4921a61c.chunk.js"
+  ]
+}
