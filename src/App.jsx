@@ -11,6 +11,7 @@ import Calendario from './Componentes/Calendario/Calendario';
 import InscrCalendario from './Componentes/Inscr-Calendario';
 import Instalaciones from './Componentes/Instalaciones';
 import Contacto from './Componentes/Contacto';
+import Footer from './Componentes/Footer';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
         <InscrCalendario />
         <Instalaciones />
         <Contacto />
+        <Footer />
       </div>
 
     </div>
