@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TallerArte/static/css/main.01f8011b.chunk.css",
+    "main.css": "/TallerArte/static/css/main.55b2b100.chunk.css",
     "main.js": "/TallerArte/static/js/main.e31f6029.chunk.js",
     "main.js.map": "/TallerArte/static/js/main.e31f6029.chunk.js.map",
     "runtime-main.js": "/TallerArte/static/js/runtime-main.4a421aad.js",
@@ -10,7 +10,7 @@
     "static/js/2.add8a62d.chunk.js.map": "/TallerArte/static/js/2.add8a62d.chunk.js.map",
     "index.html": "/TallerArte/index.html",
     "static/css/2.081f420c.chunk.css.map": "/TallerArte/static/css/2.081f420c.chunk.css.map",
-    "static/css/main.01f8011b.chunk.css.map": "/TallerArte/static/css/main.01f8011b.chunk.css.map",
+    "static/css/main.55b2b100.chunk.css.map": "/TallerArte/static/css/main.55b2b100.chunk.css.map",
     "static/js/2.add8a62d.chunk.js.LICENSE.txt": "/TallerArte/static/js/2.add8a62d.chunk.js.LICENSE.txt",
     "static/js/main.e31f6029.chunk.js.LICENSE.txt": "/TallerArte/static/js/main.e31f6029.chunk.js.LICENSE.txt",
     "static/media/adulto-pintando.32c71835.jpg": "/TallerArte/static/media/adulto-pintando.32c71835.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.4a421aad.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.add8a62d.chunk.js",
-    "static/css/main.01f8011b.chunk.css",
+    "static/css/main.55b2b100.chunk.css",
     "static/js/main.e31f6029.chunk.js"
   ]
 }
