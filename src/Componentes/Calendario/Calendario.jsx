@@ -9,9 +9,9 @@ import Mes from './Mes'
 import Dia from './Dia'
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import InformacionCalendario from './InformacionCalendario'
-
+// #d0c20e
 export default function Calendario() {
-    const vecColores = ['#5d29bf', '#e77cdb', '#0565ad', '#173c51', '#603912', '#75dace', '#ab079d', '#62c33d', '#9f0f56', '#1a39e9', '#531911', '#87c4d7', '#d0c20e', '#772f92', '#304fd7', '#4db650', '#186468', '#1d27b4', '#63aee0', '#b7622f', '#46e6df', '#ef34f4', '#435b15', '#da8570', '#d7db92', '#1597d0', '#085ef5', '#e3aac7', '#56d2cf', '#8070a4', '#56d2cf', '#8070a4']
+    const vecColores = ['', '#75dace', '#d7db92', '#d7db92', '#d7db92', '#d7db92', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '#0565ad', '#0565ad', '#0565ad', '#0565ad', '#0565ad']
     const cantidadDias = 30;
 
     var dias31mes = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "  ", "  ", "  ", "  "];
@@ -29,17 +29,17 @@ export default function Calendario() {
             <>
                 <div id="link3" />
                 <Container>
-                    <Row>
+                    <Row xs="1" sm="2" md="2" lg="3" xl="3">
                         <Col>
-                            <Mes nombreMes="Abril" cantidadDias={dias30mes} vecColores={vecColores} />
+                            <Mes nombreMes="Julio" cantidadDias={dias31mes} vecColores={vecColores} />
 
                         </Col>
                         <Col>
-                            <Mes nombreMes="Mayo" cantidadDias={dias31mes} vecColores={vecColores} />
+                            <Mes nombreMes="Agosto" cantidadDias={dias31mes} vecColores={vecColores} />
 
                         </Col>
                         <Col>
-                            <Mes nombreMes="Junio" cantidadDias={dias30mes} vecColores={vecColores} />
+                            <Mes nombreMes="Septiembre" cantidadDias={dias30mes} vecColores={vecColores} />
                         </Col>
                     </Row>
                 </Container>

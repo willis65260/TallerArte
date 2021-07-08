@@ -9,9 +9,10 @@ import Jumbotron from 'react-bootstrap/Jumbotron'
 import Carousel from 'react-bootstrap/Carousel'
 
 
-import img1 from '../Recusos/Imagenes/bellas-artes-1.jpg'
-import img2 from '../Recusos/Imagenes/bellas-artes-2.jpg'
-import img3 from '../Recusos/Imagenes/bellas-artes-3.jpg'
+import img1 from '../RecursosCuartos/carrusel-2.jpg'
+import img2 from '../RecursosCuartos/carrusel-3.jpg'
+import img3 from '../RecursosCuartos/carrusel-1.jpg'
+import img4 from '../RecursosCuartos/carrusel-4.jpg'
 
 export default function Instalaciones() {
     return (
@@ -55,6 +56,13 @@ export default function Instalaciones() {
                                         <Carousel.Caption>
                                             {/* <h3>Third slide label</h3>
                                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p> */}
+                                        </Carousel.Caption>
+                                    </Carousel.Item>
+                                    <Carousel.Item>
+                                        <Image src={img4} />
+                                        <Carousel.Caption>
+                                            {/* <h3>First slide label</h3>
+                                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
                                         </Carousel.Caption>
                                     </Carousel.Item>
                                 </Carousel>

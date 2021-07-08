@@ -13,20 +13,16 @@ export default function InformacionCalendario() {
             <Container>
                 <Row>
                     <Col>
-                        <div style={{ height: "1rem", width: "1rem", backgroundColor: "#5d29bf", display: "inline-block", marginRight: "1rem" }} />
-                        <span>Sin actividades</span>
+                        <div style={{ height: "1rem", width: "1rem", backgroundColor: "#75dace", display: "inline-block", marginRight: "1rem" }} />
+                        <span>Limite de pago normal</span>
                     </Col>
                     <Col>
-                        <div style={{ height: "1rem", width: "1rem", backgroundColor: "#e77cdb", display: "inline-block", marginRight: "1rem" }} />
-                        <span>Pintura</span>
+                        <div style={{ height: "1rem", width: "1rem", backgroundColor: "#d7db92", display: "inline-block", marginRight: "1rem" }} />
+                        <span>Pago tardio</span>
                     </Col>
                     <Col>
                         <div style={{ height: "1rem", width: "1rem", backgroundColor: "#0565ad", display: "inline-block", marginRight: "1rem" }} />
-                        <span>Acuarela</span>
-                    </Col>
-                    <Col>
-                        <div style={{ height: "1rem", width: "1rem", backgroundColor: "#173c51", display: "inline-block", marginRight: "1rem" }} />
-                        <span>Dibujo</span>
+                        <span>Adelanto de pagos</span>
                     </Col>
                 </Row>
             </Container>

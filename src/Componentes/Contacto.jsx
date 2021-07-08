@@ -19,17 +19,19 @@ export default function Contacto() {
                     <Row>
                         <Col>
                             <Jumbotron className="fondo-transparente">
-                                <h3 style={{ textAlign: "center" }} >Envianos directamente un correo</h3>
+                                <h3 style={{ textAlign: "center" }} >Enviame directamente un correo</h3>
                                 <Form.Control placeholder="Nombre" />
                                 <br />
                                 <Form.Control placeholder="Correo electronico" />
                                 <br />
-                                <Form.Control placeholder="Asunto" />
+                                <Form.Control placeholder="Tipo de cuarto de interes" />
                                 <br />
                                 <Form.Control placeholder="Distrito" />
                                 <br />
+                                <Form.Control placeholder="Numero telefonico" />
+                                <br />
                                 <Form.Group controlId="exampleForm.ControlTextarea1">
-                                    <Form.Control as="textarea" rows={3} placeholder="Mensaje.." />
+                                    <Form.Control as="textarea" rows={3} placeholder="Mensaje..." />
                                 </Form.Group>
                                 <br />
                                 <Button style={{ float: "right" }} ><span style={{ margin: "auto 1rem" }}>Enviar</span></Button>
@@ -38,11 +40,10 @@ export default function Contacto() {
                         <Col>
                             <Jumbotron className="fondo-transparente">
                                 <h1>
-                                    Whatsapeanos a los telefonos
+                                    Whatsapeame al telefono
                                 </h1>
-                                <h1> 969-012-631 </h1>
-                                <h1> 977-590-554</h1>
-                                <h1>y te atenderemos lo mas pronto posible :D</h1>
+                                <h1> +51 943 047 804 </h1>
+                                <h1>y te atenderé lo mas pronto posible :D</h1>
                             </Jumbotron>
                         </Col>
                     </Row>

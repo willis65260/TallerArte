@@ -9,7 +9,7 @@ export default function Header() {
 
     return (
         <>
-            <Navbar variant="dark" expand="lg" style={{ "background-color": "#1A2A4E" }} sticky="top" >
+            <Navbar variant="dark" expand="lg" style={{ "background-color": "rgb(75,54,33)", "position":"fixed", "width":"100%", "zIndex":"100"}} top="fixed" >
                 <Navbar.Brand href="#home">Logo</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">

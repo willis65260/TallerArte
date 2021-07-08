@@ -31,12 +31,14 @@ h4,
 h5,
 h6 {
     font-family: 'Indie Flower', cursive;
-    color: rgb(42, 63, 106);
+    /* color: rgb(42, 63, 106); */
+    color: rgb(190, 190, 190);
 }
 
 p {
     /* font-size: 25px; */
-    color: rgb(42, 63, 106);
+    /* color: rgb(42, 63, 106); */
+    color: aliceblue;
     /* color: var(--Cafe); */
     /* font-family: 'Roboto mono', sans-serif; */
     /* font-family: 'Orelega One', cursive; */
@@ -48,8 +50,8 @@ p {
 .fondo-blaquesino {
     height: 100vh;
     width: 100vw;
-    background-image: url("./Imagenes/fondo1_auto_x2.jpg");
-    background-image: url("./Imagenes/fondo2_auto_x2.jpg");
+    /* background-image: url("./Imagenes/fondo1_auto_x2.jpg"); */
+    background-image: url('../RecursosCuartos/escaleras-1.jpeg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,7 +61,8 @@ p {
 
 .fondo-blaquesino {
     background-image: none;
-    background-color: var(--Amarillo);
+    /* background-color: var(--Amarillo); */
+    background-color: rgba(128, 64, 0);
     opacity: .30;
     z-index: -99;
 }
@@ -93,6 +96,6 @@ p {
     /* display: none;  /* Safari and Chrome */
 }
 
-.altura300{
+.altura300 {
     height: 300px;
 }

@@ -38,10 +38,10 @@ function App() {
       </div>
 
       <div className="">
-      <div id="link1" />
+        <div id="link1" />
         <Actividades />
-        <div id="link2" />
-        <Cursos />
+        {/* <div id="link2" />
+        <Cursos /> */}
         <div id="link6" />
         <InscrCalendario />
         <div id="link4" />

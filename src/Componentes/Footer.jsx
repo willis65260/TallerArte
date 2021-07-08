@@ -13,7 +13,7 @@ export default function Footer() {
                     
                 </Row>
             </Container> */}
-            <Navbar variant="dark" expand="lg" style={{"background-color":"#1A2A4E" }} >
+            <Navbar variant="dark" expand="lg" style={{"background-color":"rgb(75,54,33)" }} >
                 <Navbar.Brand href="#home">Logo</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
@@ -21,7 +21,7 @@ export default function Footer() {
                     <Nav>
                         <Nav.Link  href="#home">Politica de privacidad</Nav.Link>
                         <Nav.Link href="https://github.com/willis65260">Desarrollador Jose Eduardo</Nav.Link>
-                        <Nav.Link href="#link">	&copy; 2021 Alan Garcia Profesor de arte</Nav.Link>
+                        <Nav.Link href="#link">	&copy; 2021 César Guevara ingeniero electronico y desarrollador web </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

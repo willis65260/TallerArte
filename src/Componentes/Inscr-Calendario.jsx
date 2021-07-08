@@ -17,7 +17,7 @@ export default function InscrCalendario() {
                     <Col>
                         <Jumbotron className="fondo-transparente" >
                             <h1 style={{ textAlign: "center" }}>Suscribete!</h1>
-                            <h3 style={{ textAlign: "center" }} >Recibe tips gratuitos directo en tu bandeja de correo electronico</h3>
+                            <h3 style={{ textAlign: "center" }} >Recibe tips gratuitos directo en tu bandeja de correo electronico de como mantener tu cuarto en buenas condiciones ademas de tips DIY par personalizar tu cuarto de una manera no invasiva y barata</h3>
                             <Container>
                                 <Row>
                                     <Col>
@@ -35,7 +35,8 @@ export default function InscrCalendario() {
                 <Row>
                     <Col>
                         <Jumbotron className="fondo-transparente" >
-                            <h1  style={{ textAlign: "center" }}>Calendario</h1>
+                            <h1  style={{ textAlign: "center" }}>Calendario de pagos</h1>
+                            <h3 style={{ textAlign: "center" }}>No olvides pagar la renta!</h3>
                             <br/>
                             <Calendario />
                         </Jumbotron>
